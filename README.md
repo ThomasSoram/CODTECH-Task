@@ -36,17 +36,17 @@ The TestNG suite is configured in testng.xml to run the following test classes i
 3. Install dependencies:
    - Maven install
 
-#Running Tests
+# Running Tests
    Execute the following command to run the tests:
    - maven test
 
 # Contributing
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
 
-#License:
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements:
+# Acknowledgements
 TestNG for providing a robust testing framework.
 
 

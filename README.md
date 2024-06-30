@@ -11,7 +11,7 @@ This project demonstrates the use of TestNG for automating tests in a Java appli
 3. Scalability: Easily scalable to include more tests and functionalities.
 
 # Test Configuration
-The TestNG suite is configured in testng.xml to run the following test classes in parallel:
+The TestNG suite is configured in testng.xml to run the following test classes in parallel
 
 
 # Test Classes

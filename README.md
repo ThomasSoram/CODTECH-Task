@@ -15,10 +15,10 @@ The TestNG suite is configured in testng.xml to run the following test classes i
 
 
 # Test Classes
-testNG.Login1: Tests related to the first login scenario.
-testNG.Login2: Tests for the second login scenario.
-testNG.Login3: Tests covering the third login scenario.
-testNG.Login4: Additional tests for a fourth login scenario.
+1. testNG.Login1: Tests related to the first login scenario.
+2. testNG.Login2: Tests for the second login scenario.
+3. testNG.Login3: Tests covering the third login scenario.
+4. testNG.Login4: Additional tests for a fourth login scenario.
 
 # Getting Started
 #Prerequisites

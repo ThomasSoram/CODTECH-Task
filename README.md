@@ -6,9 +6,9 @@
 This project demonstrates the use of TestNG for automating tests in a Java application. TestNG is a powerful testing framework inspired by JUnit and NUnit, designed to cover all categories of tests: unit, functional, end-to-end, integration, etc.
 
 # Features
-Parallel Testing: Configured to run tests in parallel with a thread count of 5 for faster execution.
-Test Organization: Includes multiple test classes to validate different aspects of the application.
-Scalability: Easily scalable to include more tests and functionalities.
+1. Parallel Testing: Configured to run tests in parallel with a thread count of 5 for faster execution.
+2. Test Organization: Includes multiple test classes to validate different aspects of the application.
+3. Scalability: Easily scalable to include more tests and functionalities.
 
 # Test Configuration
 The TestNG suite is configured in testng.xml to run the following test classes in parallel:

@@ -26,19 +26,28 @@ The TestNG suite is configured in testng.xml to run the following test classes i
 2.Maven (for dependency management)
 3.TestNG library
 
-#Installation
-1. Clone the repository:
-   - git clone https://github.com/yourusername/testng-automation.git
+# Setps
 
-2. Navigate to the project directory:
-   - cd testng-automation
+1. If you're using Maven, add the TestNG dependency to your pom.xml file
+   - <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.7.0</version>
+    <scope>test</scope>
+</dependency>
+2. If you're not using Maven, download the TestNG JAR from the TestNG website and add it to your project's build path.
+3. Create a new Java class for your TestNG test. For example, you can name it Login1.java.
+4. Write the TestNG Test
+5. Create a TestNG XML File
+6. Run the TestNG Test
+7. After running the tests, you can review the test results in the console output or the generated TestNG reports.
 
-3. Install dependencies:
-   - Maven install
+#Additional Tips
 
-# Running Tests
-   Execute the following command to run the tests:
-   - maven test
+- You can add more test methods in the Login1 class to cover additional scenarios.
+- Use TestNG annotations like @BeforeMethod, @AfterMethod, etc., to set up and tear down specific preconditions for each test method.
+- Parameterize your tests using the @DataProvider annotation to run the same test with different data sets.
+
 
 # Contributing
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.

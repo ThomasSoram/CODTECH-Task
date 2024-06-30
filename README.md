@@ -2,7 +2,7 @@
 /*OUTPUT/*
 ![Screenshot (105)](https://github.com/ThomasSoram/CODTECH-Task/assets/171699330/1c7544e4-37b0-4556-989d-08ffed9fd742)
 
-#Project Description
+# Project Description
 This project demonstrates the use of TestNG for automating tests in a Java application. TestNG is a powerful testing framework inspired by JUnit and NUnit, designed to cover all categories of tests: unit, functional, end-to-end, integration, etc.
 
 #Features
@@ -36,7 +36,7 @@ testNG.Login4: Additional tests for a fourth login scenario.
 3. Install dependencies:
    - Maven install
 
-# Running Tests
+#Running Tests
    Execute the following command to run the tests:
    - maven test
 

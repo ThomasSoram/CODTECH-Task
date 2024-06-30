@@ -29,12 +29,12 @@ The TestNG suite is configured in testng.xml to run the following test classes i
 # Setps
 
 1. If you're using Maven, add the TestNG dependency to your pom.xml file
-   - <dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.7.0</version>
-    <scope>test</scope>
-</dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+             <artifactId>testng</artifactId>
+              <version>7.7.0</version>
+               <scope>test</scope>
+          </dependency>
 2. If you're not using Maven, download the TestNG JAR from the TestNG website and add it to your project's build path.
 3. Create a new Java class for your TestNG test. For example, you can name it Login1.java.
 4. Write the TestNG Test

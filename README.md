@@ -22,9 +22,9 @@ The TestNG suite is configured in testng.xml to run the following test classes i
 
 # Getting Started
 #Prerequisites
-1.Java Development Kit (JDK) 8 or higher
-2.Maven (for dependency management)
-3.TestNG library
+1. Java Development Kit (JDK) 8 or higher
+2. Maven (for dependency management)
+3. TestNG library
 
 # Setps
 
